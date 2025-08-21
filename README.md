@@ -22,10 +22,9 @@ A leading UK-based retail company, operating across multiple cities, wanted to c
 ---
 
 ## Dataset
-- **Fact Tables**: Stored in **3 Excel files**, each containing multiple monthly tabs (Sales, Vendors, Inventory).  
+- **Fact Tables**: Stored in **3 Excel files** for each year, each containing multiple monthly tabs.  
 - **Product Dimension Table**: Stored in **PostgreSQL database**.  
-- **Manufacturer Data**: Images and references maintained in **Google Sheets**.  
-- All Excel monthly tabs were converted into individual CSV files using Python to make them Power BI-friendly.  
+- **Manufacturer Data**: Images and references maintained in **Google Sheets**.    
 
 ---
 
@@ -93,7 +92,7 @@ A leading UK-based retail company, operating across multiple cities, wanted to c
 ---
 
 ## Dashboard
-👉 [Click here to explore the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGY2NjRmYTYtODg0My00ZjA1LThjOTYtYzMyOGJhYTgxZjU0IiwidCI6IjYyZWE2YjA3LWY5YzUtNDk2My1hYWFhLWJjYmQ2YjhkNjFlZSJ9)  
+👉[Click here to explore the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGY2NjRmYTYtODg0My00ZjA1LThjOTYtYzMyOGJhYTgxZjU0IiwidCI6IjYyZWE2YjA3LWY5YzUtNDk2My1hYWFhLWJjYmQ2YjhkNjFlZSJ9)  
  
 
 ---
@@ -101,8 +100,8 @@ A leading UK-based retail company, operating across multiple cities, wanted to c
 ## Author & Contact
 👨‍💻 **Chirag Sharma** – Data Analyst  
 📧 Email: ChiragSh146@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/chirag-sharma-cc1/)  
-🔗 [Portfolio](https://www.linkedin.com/in/chirag-sharma-cc1/)  
+<a href="https://www.linkedin.com/in/chirag-sharma-cc1/" target="_blank">🔗 LinkedIn</a>
+<a href="https://www.linkedin.com/in/chirag-sharma-cc1/" target="_blank">🔗 Portfolio</a>
 
 ---
 
