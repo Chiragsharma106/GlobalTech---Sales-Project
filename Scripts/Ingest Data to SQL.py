@@ -21,7 +21,7 @@ Folder = r"C:\Users\chira\Documents\All Files\PortFolio Dashboards💸\#1 SalesD
 
 
 pg_user = 'postgres'
-pg_password = 'SQUAL#QUE'
+pg_password = 'xxxxx'
 pg_host = 'localhost'
 pg_port = '5432'
 pg_db = 'SalesDashboard'
