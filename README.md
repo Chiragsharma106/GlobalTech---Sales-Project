@@ -92,7 +92,7 @@ A leading UK-based retail company, operating across multiple cities, wanted to c
 ---
 
 ## Dashboard
-👉[Click here to explore the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzIxYzNkNDEtYjMxMC00NGFmLWFjZmItNTk4YTBjZDMzZjE3IiwidCI6IjAyMWQ0Njk0LTAwOGUtNGUyMy04NTc3LTViMGM1NGIxNTc1NCJ9)  
+👉[Click here to explore the interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTc3Zjg4ZmMtZDU1Zi00MTIwLThhYWQtNmNhOWYwN2JmOWRjIiwidCI6IjU4MTRmMDFlLTQ2OTgtNDkwNy1hZGZlLTMxZjI0MmZhOTA5OSJ9)  
  
 
 ---
